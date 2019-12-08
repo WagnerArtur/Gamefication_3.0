@@ -1,0 +1,10 @@
+body{
+    background-image: url(../imagens/background.png);
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+div.row{
+    position:relative;
+    top: 55vh;
+}

@@ -1,0 +1,68 @@
+.bodyindex
+{
+       width: 100vw;
+       height: 100vh;
+       background: white;
+       display: flex;
+       flex-direction: row;
+       justify-content: center;
+       align-items: center
+
+}
+.bodyxone
+{
+    background-image: url("../imagens/background.png");
+    color: white;
+    position: relative;
+    top: 50pt;
+    text-align: center;
+}
+.logo{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    margin: -100px 0 0 -200px;
+    top: 30%;
+    left: 50%;
+    background-repeat: no-repeat;
+}
+.botaoplataforma
+{
+	width: 50%;
+    height: 20%;
+    background: #fff;
+    position: relative;
+    top: 20%;
+}
+.botaoplay4
+{
+	width: 25%;
+    height: 100%;
+    background: red;
+    position: absolute;
+}
+.botaoplay3
+{
+	width: 25%;
+    height: 100%;
+    background: blue;
+    position: absolute;
+    left: 25%;
+
+}
+.botaoone
+{
+	width: 25%;
+    height: 100%;
+    background: magenta;
+    position: absolute;
+    left: 50%;
+}
+.botao360
+{
+	width: 25%;
+    height: 100%;
+    background: green;
+    position: absolute;
+    left: 75%;
+}
